@@ -1,19 +1,17 @@
 <package>
-	<id>com.supermamon.oldpackage</id>
-	<name>Old Package</name>
-	<version>1.0.0-1</version>
+	<id>com.nightwind.onesettingslite</id>
+	<name>OneSettings Lite</name>
+	<version>1.0.0</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>7.0</maxiOS>
+			<miniOS>13.0</miniOS>
+			<maxiOS>14.8</maxiOS>
 			<otherVersions>unsupported</otherVersions>
-			<!--
-			for otherVersions, you can put either unsupported or unconfirmed
-			-->
 		</firmware>
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>This is an old package. Requires iOS 7 and below..</description>
+		<description>This is a lite version of OneSettings.</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
