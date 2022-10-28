@@ -1,0 +1,21 @@
+<package>
+	<id>com.nightwind.spotifywithouthome</id>
+	<name>SpotifyWithoutHome</name>
+	<version>1.0.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+			<maxiOS>14.8</maxiOS>
+			<otherVersions>unsupported</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>No more Spotify home tab!</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release</change>
+	</changelog>
+	<links></links>
+</package>
