@@ -1,0 +1,17 @@
+<package>
+	<id>com.nightwind.rootless-patcher</id>
+	<name>rootless-patcher</name>
+	<version>0.0.1</version>
+	<dependencies>
+		<package>odcctools</package>
+		<package>ldid</package>
+	</dependencies>
+	<descriptionlist>
+		<description>A CLI rootful to rootless patcher. Utilizes a technique that does not require Xina-style symlinks.</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Initial release.</change>
+	</changelog>
+	<links></links>
+</package>
